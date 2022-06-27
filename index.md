@@ -37,3 +37,9 @@ git log
 ```
 git commit -m <commint
 >
+## Создание новой ветки
+Для создания новой ветки необходимо ввести команду
+```
+git branch <name branch>
+
+
