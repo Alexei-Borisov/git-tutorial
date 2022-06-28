@@ -47,4 +47,8 @@ git branch <name branch>
 ```
 git log --all --graph
 ```
-
+## Слияние меток
+Для слияния меток необходимо ввести команду
+```
+git merge
+```
