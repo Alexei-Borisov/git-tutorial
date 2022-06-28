@@ -42,3 +42,9 @@ git commit -m <commint>
 ```
 git branch <name branch>
 ```
+## Графический показ веток
+Для графического показа веток необходимо ввести команду
+```
+git log --all --graph
+```
+
